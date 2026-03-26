@@ -105,9 +105,8 @@ Relevant concepts include:
 
 ## Dataset
 
-The model is trained using the **Fake and Real News Dataset** from Kaggle.
+The model is trained using the **Fake and Real News Dataset** from Kaggle. And **complete_dataset** from hugging face. 
 
-The dataset contains labeled news articles classified as **fake or real**, which are used to train the classifier.
 
 ---
 
