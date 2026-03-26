@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.env
+venv/
+env/
+
+.ipynb_checkpoints/
+
+*.log
+*.tmp
+
+.DS_Store
+
+# Models (optional if using LFS)
+*.pkl
+*.h5
+*.pt
+
+# VS Code
+.vscode/
